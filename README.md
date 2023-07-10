@@ -21,7 +21,7 @@ selected this dataset because to the uniformity of the photos and its big collec
 photographs..Therefore the proposed work makes use of Machine and Deep Learning
 Models on the dataset and classifies out of four categories- Non-Demented, Very Mildly 
 Demented, Mildly Demented, and Moderately Demented. The following Machine 
-Learning and Deep Learning Learning Algorithms are appliedSVM,KNN,ANN,CNN,MobileNet,MobileNetV2,VGG16,VGG19,DenseNet121,Desn
+Learning and Deep Learning Learning Algorithms are applied SVM,KNN,ANN,CNN,MobileNet,MobileNetV2,VGG16,VGG19,DenseNet121,Desn
 seNet169,ResNet50,InceptionNetV3.The performance of machine learning and deep 
 learning models is gauged using metrics including Precision, Recall, Accuracy, and 
 F1-score. The comparison in terms of performance parameters is made with all the 
